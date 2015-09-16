@@ -1,7 +1,6 @@
 ﻿Author		: Kunal Rai
-Website		: 
 Version		: 1.0
-Description	: 
+
 
 - It uses SignalR infrastructure as the base.
   Used for coding “SRChatServer” server hub and “SRChatClient” client hub.
