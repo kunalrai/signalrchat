@@ -1,7 +1,7 @@
-﻿Author		: Dhaval Upadhyaya
-Website		: http://dhavalupadhyaya.wordpress.com
+﻿Author		: Kunal Rai
+Website		: 
 Version		: 1.0
-Description	: http://dhavalupadhyaya.wordpress.com/2012/11/13/srchat-plug-play-enjoy/
+Description	: 
 
 - It uses SignalR infrastructure as the base.
   Used for coding “SRChatServer” server hub and “SRChatClient” client hub.
